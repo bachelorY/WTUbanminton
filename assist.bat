@@ -1,0 +1,1 @@
+C:\Users\freest0ne\AppData\Local\Programs\Python\Python38\python.exe D:/Program1/python/test/assist.py
